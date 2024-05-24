@@ -1,0 +1,73 @@
+# Define the provider and stack to delivery the project
+
+- Status: [draft | proposed | rejected | accepted | deprecated | … | superseded by [xxx](yyyymmdd-xxx.md)] <!-- optional -->
+- Deciders: [list everyone involved in the decision] <!-- optional -->
+- Date: [YYYY-MM-DD when the decision was last updated] <!-- optional. To customize the ordering without relying on Git creation dates and filenames -->
+- Tags: [space and/or comma separated list of tags] <!-- optional -->
+
+Technical Story: [Issue #1](https://github.com/techmackcrazy/ml-sales-prediction/issues/1)
+
+## Context and Problem Statement
+
+We need to decide which cloud provider we will choose to execute our project, as well as the stack we will use to develop the process of ingestion, transformation, sales prediction, and data visualization.
+
+## Decision Drivers <!-- optional -->
+
+- [driver 1, e.g., a force, facing concern, …]
+- [driver 2, e.g., a force, facing concern, …]
+- … <!-- numbers of drivers can vary -->
+
+## Considered Options
+
+- [option 1]
+- [option 2]
+- [option 3]
+- … <!-- numbers of options can vary -->
+
+## Decision Outcome
+
+Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+
+### Positive Consequences <!-- optional -->
+
+- [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
+- …
+
+### Negative Consequences <!-- optional -->
+
+- [e.g., compromising quality attribute, follow-up decisions required, …]
+- …
+
+## Pros and Cons of the Options <!-- optional -->
+
+### [option 1]
+
+[example | description | pointer to more information | …] <!-- optional -->
+
+- Good, because [argument a]
+- Good, because [argument b]
+- Bad, because [argument c]
+- … <!-- numbers of pros and cons can vary -->
+
+### [option 2]
+
+[example | description | pointer to more information | …] <!-- optional -->
+
+- Good, because [argument a]
+- Good, because [argument b]
+- Bad, because [argument c]
+- … <!-- numbers of pros and cons can vary -->
+
+### [option 3]
+
+[example | description | pointer to more information | …] <!-- optional -->
+
+- Good, because [argument a]
+- Good, because [argument b]
+- Bad, because [argument c]
+- … <!-- numbers of pros and cons can vary -->
+
+## Links <!-- optional -->
+
+- [Link type](link to adr) <!-- example: Refined by [xxx](yyyymmdd-xxx.md) -->
+- … <!-- numbers of links can vary -->
