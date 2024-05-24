@@ -9,7 +9,15 @@ Technical Story: [Issue #1](https://github.com/techmackcrazy/ml-sales-prediction
 
 ## Context and Problem Statement
 
-We need to decide which cloud provider we will choose to execute our project, as well as the stack we will use to develop the process of ingestion, transformation, sales prediction, and data visualization.
+Definir qual provedor de nuvem escolher para executar o projeto, bem como a stack que utilizaremos para desenvolver os processos de ingestão, transformação, modelo de previsão de vendas e ferramenta de dataviz que estejam de acordo com todos os integrantes.
+
+## Decision Makers
+
+- Carolina Attili - Governança
+- Henrique Arduinni -  Devops
+- Matheus Vieger - Engenheiro de Dados
+- Rafael Medeiros - Product Owner / Engenheiro de Dados
+
 
 ## Decision Drivers <!-- optional -->
 

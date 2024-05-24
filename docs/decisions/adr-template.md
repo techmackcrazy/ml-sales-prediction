@@ -8,6 +8,13 @@ informed: {list everyone who is kept up-to-date on progress; and with whom there
 ---
 # {short title of solved problem and solution}
 
+## Decision Makers
+
+- Carolina Attili - Governança
+- Henrique Arduinni -  Devops
+- Matheus Vieger - Engenheiro de Dados
+- Rafael Medeiros - Product Owner / Engenheiro de Dados
+
 ## Context and Problem Statement
 
 {Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story.
