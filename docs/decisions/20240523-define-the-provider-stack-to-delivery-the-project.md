@@ -1,9 +1,7 @@
 # Define the provider and stack to delivery the project
 
-- Status: [draft | proposed | rejected | accepted | deprecated | … | superseded by [xxx](yyyymmdd-xxx.md)] <!-- optional -->
-- Deciders: [list everyone involved in the decision] <!-- optional -->
-- Date: [YYYY-MM-DD when the decision was last updated] <!-- optional. To customize the ordering without relying on Git creation dates and filenames -->
-- Tags: [space and/or comma separated list of tags] <!-- optional -->
+- Status: draft 
+- Tags: arquitetura, stack
 
 Technical Story: [Issue #1](https://github.com/techmackcrazy/ml-sales-prediction/issues/1)
 
