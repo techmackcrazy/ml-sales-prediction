@@ -19,20 +19,20 @@ Definir qual provedor de nuvem escolher para executar o projeto, bem como a stac
 
 ## Decision Drivers <!-- optional -->
 
-- [driver 1, e.g., a force, facing concern, …]
-- [driver 2, e.g., a force, facing concern, …]
-- … <!-- numbers of drivers can vary -->
+- GCP - Ferramenta mais utilizada pelos integrantes e se integra bem com dbt
+- BigQuery - É um dos três principais data warehouses modernos e se integra nativamente com o dbt
+- Notebook(Jupyter) - Posteriormente poderá ser utilizado o Tableau, mas será usado a princípio o Jupyter para
+plotagem de gráficos
 
 ## Considered Options
 
-- [option 1]
-- [option 2]
-- [option 3]
+- AWS e Red Shift
+- Azure e Databricks
 - … <!-- numbers of options can vary -->
 
 ## Decision Outcome
 
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+Escolhemos utilizar GCP com BigQuery pois são as ferramenta mais utilizadas pelos integrantes e se integra bem com dbt
 
 ### Positive Consequences <!-- optional -->
 
