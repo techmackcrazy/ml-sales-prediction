@@ -13,9 +13,8 @@ Neste outro [repositório](https://github.com/techmackcrazy/dbt-mack-sales-predi
 ### Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas:
 - Python 3.8+
-- Apache Airflow
-- dbt
 - log4brains
+- npm
  
 ### Passo a Passo
  
