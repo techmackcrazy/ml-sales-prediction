@@ -1,6 +1,6 @@
 # Define the provider and stack to delivery the project
 
-- Status: proposed 
+- Status: accepted 
 - Tags: arquitetura, stack
 
 Technical Story: [Issue #1](https://github.com/techmackcrazy/ml-sales-prediction/issues/1)
