@@ -19,20 +19,22 @@ Definir qual provedor de nuvem escolher para executar o projeto, bem como a stac
 
 ## Decision Drivers <!-- optional -->
 
-- GCP - Ferramenta mais utilizada pelos integrantes e se integra bem com dbt
-- BigQuery - É um dos três principais data warehouses modernos e se integra nativamente com o dbt
+- GCP - Ferramenta mais utilizada pelos integrantes e se integra bem com dbt.
+- BigQuery - É um dos três principais data warehouses modernos e se integra nativamente com o dbt.
 - Streamlit - O Streamlit transforma scripts de dados em aplicativos web compartilháveis em minutos. Tudo em Python puro. Não é necessária experiência com front-end.
 - Elementary - Solução nativa de observabilidade de dados para engenheiros de dados e analytics.
-- Slack A plataforma Slack oferece muitas ferramentas para ajudar a aprimorar seus workspaces. Em um nível mais alto, elas podem ser vistas através da lente das automações de fluxo de trabalho e dos aplicativos Slack que não são de fluxo de trabalho.
+- Slack - A plataforma Slack oferece muitas ferramentas para ajudar a aprimorar seus workspaces. Em um nível mais alto, elas podem ser vistas através da lente das automações de fluxo de trabalho e dos aplicativos Slack que não são de fluxo de trabalho.
+- Tableau - Ferramenta escolhida para realização da parte de Data Viz do projeto, pois foi a que aprendemos no curso e achamos que seria uma boa oportunidade de explorá-la.
 
 ## Considered Options
 
 - AWS e Red Shift
 - Azure e Databricks
+- Jupyter
 
 ## Decision Outcome
 
-Escolhemos utilizar GCP com BigQuery pois são as ferramenta mais utilizadas pelos integrantes e se integra bem com dbt
+- Escolhemos utilizar GCP com BigQuery pois são as ferramenta mais utilizadas pelos integrantes e se integra bem com dbt.
 
 ### Positive Consequences <!-- optional -->
 
@@ -41,5 +43,5 @@ Escolhemos utilizar GCP com BigQuery pois são as ferramenta mais utilizadas pel
 
 ### Negative Consequences <!-- optional -->
 
-- Treinamento do time com as ferramentas de Modern Data Stack
+- Treinamento do time com as ferramentas de Modern Data Stack.
 - Avaliação do custo do projeto.
